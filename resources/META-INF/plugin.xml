@@ -23,7 +23,7 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <toolWindow factoryClass="window.NoteListWindowFactory" id="noteWindow" anchor="right"></toolWindow>
+    <toolWindow factoryClass="window.NoteListWindowFactory" secondary="false" id="noteWindow" anchor="right" icon="/img/logo2.svg" ></toolWindow>
   </extensions>
 
   <actions>
