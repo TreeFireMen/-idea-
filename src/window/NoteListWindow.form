@@ -49,6 +49,12 @@
               <text value="生成文档"/>
             </properties>
           </component>
+          <component id="cdb25" class="javax.swing.JButton" binding="btnExcel">
+            <constraints/>
+            <properties>
+              <text value="生成Excel"/>
+            </properties>
+          </component>
           <component id="ce9c4" class="javax.swing.JButton" binding="btnClear">
             <constraints/>
             <properties>

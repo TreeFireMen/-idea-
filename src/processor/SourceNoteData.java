@@ -2,7 +2,6 @@ package processor;
 
 import java.util.List;
 
-import com.intellij.openapi.graph.layout.hierarchic.incremental.NodeData;
 import data.NoteData;
 
 /**
